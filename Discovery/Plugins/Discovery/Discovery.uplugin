@@ -24,5 +24,6 @@
 		"libraryFolderMode": "Absent",
 		"libraryCustomPath": ""
 	},
-	"builtInAutoActivate": false
+	"builtInAutoActivate": false,
+	"VerseVersion": 0
 }
