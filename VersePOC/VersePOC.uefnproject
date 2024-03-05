@@ -1,0 +1,44 @@
+{
+	"fileVersion": 14,
+	"versionSuffix": "",
+	"title": "VersePOC",
+	"description": "",
+	"keyArt": "Resources/Icon256.png",
+	"docsUrl": "",
+	"kind": "Island",
+	"templateCategory": "UserGenerated",
+	"compatibilityVersion": "28.30",
+	"editorPermissions": [],
+	"epicApp": "",
+	"sortPriority": 0,
+	"plugins": [
+		{
+			"name": "VersePOC",
+			"bIsRoot": true,
+			"bIsPublic": false
+		}
+	],
+	"dataSets":
+	{
+		"matchmaking":
+		{
+			"maxPlayers": 16,
+			"maxTeamCount": 1,
+			"maxTeamSize": 16,
+			"maxSocialPartySize": 16,
+			"allowJoinInProgress": true,
+			"allowSquadFillOption": false,
+			"islandQueuePrivacy": "Unrestricted",
+			"version": 1
+		}
+	},
+	"bindings":
+	{
+		"projectId": "3905d67b-4020-756e-2c2d-7292e1818873",
+		"projectVersePath": "",
+		"modules":
+		{
+			"VersePOC": "d8208992-4244-337b-79c2-2aadd74f477f"
+		}
+	}
+}
