@@ -1,5 +1,5 @@
 {
-	"fileVersion": 14,
+	"fileVersion": 15,
 	"versionSuffix": "",
 	"title": "TrainingMap",
 	"description": "",
@@ -7,7 +7,7 @@
 	"docsUrl": "",
 	"kind": "Island",
 	"templateCategory": "UserGenerated",
-	"compatibilityVersion": "28.20",
+	"compatibilityVersion": "29.01",
 	"editorPermissions": [],
 	"epicApp": "",
 	"sortPriority": 0,
@@ -40,5 +40,6 @@
 		{
 			"TrainingMap": "a0552b4d-4fa1-de87-06fa-819e1ad0c747"
 		}
-	}
+	},
+	"featureSet": ""
 }

@@ -1,0 +1,51 @@
+{
+    "folders": [
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/Semoy/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TrainingMap/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/Semoy/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TrainingMap/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/Semoy/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TrainingMap/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/Semoy/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/TrainingMap/Fortnite"
+        },
+        {
+            "name": "TrainingMap",
+            "path": "G:/Fortinite_Money/UEFN_Infinite/TrainingMap/Plugins/TrainingMap/Content"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
